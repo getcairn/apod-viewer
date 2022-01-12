@@ -1,0 +1,9 @@
+# No git stuff needed.
+.git
+.gitignore
+
+# Virtual environments and project files.
+ve
+*.code-workspace
+.python-version
+

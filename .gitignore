@@ -1,0 +1,13 @@
+# Project files and stuff.
+ve/
+__pycache__
+*.egg-info
+*.code-workspace
+.python-version
+
+
+# Ignore the local database.
+db.sqlite3
+
+
+
